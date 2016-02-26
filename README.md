@@ -4,7 +4,7 @@ Team conflict survey  for teams101x
 
 # Usage
 
-### Course Tool - Teams101x - Section 7: Improving Team Performance: Resolving Conflict and Dysfunction > How Does Your Team Respond to Conflict? > Questionnaire
+#### Course Tool - Teams101x - Section 7: Improving Team Performance: Resolving Conflict and Dysfunction > How Does Your Team Respond to Conflict? > Questionnaire
 
 Individuals of a team answer a set of questions, based on their response, their team status in "Avoiding Conflict", "Too quick to 'accommodate', "compteting mode", "too quick to 'compromise'" and "Collaborating" 
 
