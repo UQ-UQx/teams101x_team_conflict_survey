@@ -59,4 +59,3 @@ CREATE TABLE `responses` (
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 ```
->>>>>>> 2a80bfdfeb907b4f9aa75914f09629dfc3b53db8
