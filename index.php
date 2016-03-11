@@ -133,7 +133,7 @@ if($lti->is_valid()) {
 			"Members usually accept ideas and solutions without thoroughly discussing the pros and cons.",
 			"Members lecture one another to convince them they are right.",
 			"Your team makes an effort to understand everyone's perspectives and opinions.",
-			"Members frequently blame others when things do not go as hoped or planned",
+			"Members frequently blame others when things do not go as hoped or planned.",
 			"Team meetings end without members having a clear idea about what happened or what should occur next."
 
 		);
