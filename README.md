@@ -4,7 +4,7 @@ Team conflict survey  for teams101x
 
 # Usage
 
-### Course Tool - Teams101x - Section 7: Improving Team Performance: Resolving Conflict and Dysfunction > How Does Your Team Respond to Conflict? > Questionnaire
+#### Course Tool - Teams101x - Section 7: Improving Team Performance: Resolving Conflict and Dysfunction > How Does Your Team Respond to Conflict? > Questionnaire
 
 Individuals of a team answer a set of questions, based on their response, their team status in "Avoiding Conflict", "Too quick to 'accommodate', "compteting mode", "too quick to 'compromise'" and "Collaborating" 
 
@@ -59,4 +59,3 @@ CREATE TABLE `responses` (
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 ```
->>>>>>> 2a80bfdfeb907b4f9aa75914f09629dfc3b53db8
