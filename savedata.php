@@ -24,7 +24,7 @@
 	$params = array();
 	parse_str($_POST['form'], $params);
 	
-	$score = count($params)/32;
+	$score = count($params)/26;
 	
 	send_grade($score,$lti);
 	

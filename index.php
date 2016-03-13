@@ -625,7 +625,7 @@ if($lti->is_valid()) {
 			  data: data,
 			  success: function(response) {
 
-				  //console.log(response);
+				  console.log(response);
 				  //console.log('blue');
 
 				  $("#submitButton").removeClass('disabled');
@@ -646,9 +646,9 @@ if($lti->is_valid()) {
 
 			  },
 			  error: function(error){
-				  	//console.log('red');
+				  	console.log('red');
 
-				  //console.log(error);
+				  console.log(error);
 			  }
 			});
 
